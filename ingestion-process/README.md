@@ -14,7 +14,7 @@
 
 ### 接收日志相关的组件
 
-![Ingestion Overview](../.gitbook/assets/ingestion-process-overview.png)
+![Ingestion Overview](https://github.com/zhcsyncer/grafana-loki-deep-dive-cn/blob/main/.gitbook/assets/ingestion-process-overview.png)
 
 上图中展示了具体负责处理日志的组件。
 
